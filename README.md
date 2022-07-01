@@ -1,21 +1,19 @@
-# File Sharing Site With Node.js
+# File Sharing Site With MongoDb
 
-File Sharing Site With Node.js, MongoDB, and Express
+File Sharing Site is build With `MongoDB, and Express JS` You can Upload File and Share this FIle to any of your Friend and also **Protect this File by Password** which can be open only by the Person which you hae shared the Password because in code we use `Hashing & Salting` for Password which make the guess of Password more hard 
 
-## Introduction
+## 🌟 Introduction
 
-## Materials Used:
+## 🌟 Materials Used: 
 
 - Node JS
-- Express JS
-- MongoDb (Mongoose)
-- File upload HTML & CSS
-- Multer setup
-- File upload server logic
-- File download server logic
-- Password protection
-
-## Screenshots:
+- **Express JS**
+- **MongoDb (Mongoose)**
+- **File Upload** By HTML & CSS
+- **Multer**
+- **File upload server logic**
+- **File download server logic**
+- **Password protection**
 
 ## Credits:
 
